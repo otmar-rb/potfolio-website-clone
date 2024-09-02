@@ -6,6 +6,8 @@ Voici un README adapté à votre code :
 
 Ce dépôt contient le code source d'un site de portfolio créé en suivant un tutoriel. Le site présente un exemple de portfolio pour un UX/UI Designer.
 
+Ce site a été créé en suivant ce tutoriel : https://www.youtube.com/watch?v=0YFrGy_mzjY&pp=ygUlcG9ydGZvbGlvIHdlYnNpdGUgaHRtbCBjc3MgamF2YXNjcmlwdA%3D%3D
+
 ## Aperçu
 
 Le site comprend les sections suivantes :
@@ -26,18 +28,8 @@ Le site comprend les sections suivantes :
 
 1. Clonez ce dépôt sur votre machine :
     ```bash
-    git clone https://github.com/votre-utilisateur/nom-du-repo.git
+    git clone https://github.com/otmar-rb/potfolio-website-clone
     ```
 2. Ouvrez le fichier `index.html` dans votre navigateur pour voir le site.
 
-## Contributeurs
-
-Ce site a été créé en suivant un tutoriel disponible sur Easy Tutorials.
-
-## Licence
-
-Ce projet est sous licence [type de licence, par exemple MIT]. Consultez le fichier `LICENSE` pour plus de détails.
-
 ---
-
-Vous pouvez personnaliser ce README en fonction de votre dépôt GitHub.
